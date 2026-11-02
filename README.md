@@ -50,4 +50,4 @@ Instructions and examples for using the chatroom server will be added later.
 
 ## Author
 
-Your Name - [GitHub Profile](https://github.com/vineetparmar64)
+Vineet Parmar - [GitHub Profile](https://github.com/vineetparmar64)
